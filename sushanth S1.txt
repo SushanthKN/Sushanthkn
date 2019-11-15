@@ -1,0 +1,8 @@
+1.Convolution - It is a function which mutliplies two data signal values of different plane and adds it to one value.
+2.Filters/Kernels - Core of the operations, which extract the required features by doing certain calculations.
+3.Epochs - Traing the datasets mutliple times.
+4. 1x1 Convolution - Convolution takes on 1x1 matrix and gives a single output
+5. 3x3 Convolution - Covolution takes place on 3x3 matrix produces 9 values and adds all finally giving one value.
+6.Feature Maps - matrix having similar weights.
+7.Activation Function - which activates the particular pixel which has same weight.
+8. Receptive field - Size of the kernel which has all embedded information.
